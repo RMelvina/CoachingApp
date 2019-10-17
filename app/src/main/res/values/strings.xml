@@ -1,3 +1,210 @@
 <resources>
-    <string name="app_name">CoachingApp</string>
+    <drawable name="hardzard_icon">@drawable/drawable_icon_in_text_size</drawable>
+    <string name="app_name">QuickCoachingApp</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+
+    <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+    <string name="menu_send">Send</string>
+
+    <string name="overcoming_challenges_paragraph_one">
+        In any plan there may be challenges. That is ok.
+    </string>
+
+    <string name="overcoming_challenges_paragraph_two">
+        The key here is to focus on how to overcome those challenges instead of \"these are reasons why I should not do this\".
+    </string>
+
+    <string name="overcoming_challenges_paragraph_three_part_one">
+        On the next screen you will see your road map plan again with the
+    </string>
+
+
+    <string name="overcoming_challenges_paragraph_three_part_two">
+        hazard icons next to the steps you indicated may be a challenge.
+    </string>
+
+
+    <!--////////////////////////////////////////////////////////////////////////////////-->
+
+
+    <string name="DialogBoxGoalHelp_text_1">
+        Facing all the challenges at once can be a bit daunting, so try just working one at a time. Then have break and come back to it.\n\n
+
+        Alternatively we recommend going to youtube (if your country internet allows this) and typing in the search criteria\n\n
+
+        \"People are awesome\"
+
+        There is an entire channel of videos that feature people doing truly amazing things. Watch one of the videos. Look at just what can be achieved by us mortal human beings and then come back this exercise\n\n
+
+        If you are stuck for which video to watch then try this link which will take you one the many beautiful and inspiring videos of human achievement.\n\n
+
+    </string>
+
+    <string name="link">
+
+         <a href="https://www.youtube.com/watch?v=AVn-Yjr7kDc&amp;t=7s">Click me!</a>\n\n
+
+    </string>
+
+    <string name="DialogBoxGoalHelp_text_2">
+        If you can’t access sites like youtube then take a break and listen some music that inspires you and makes you feel good or look at a picture that makes you feel calm and  in a good place’ whether it’s a mountain, a beach, your favourite car or a loved one (we are all different).\n\n
+
+        Do Something to reset your mental state. Trust us.. It makes a big difference.
+    </string>
+
+    <!--////////////////////////////////////////////////////////////////////////////////-->
+
+    <string name="ProgressCheck_paragraph_one">
+        Ok so you have a clear goal, an understanding of why you want achieve it, a plan to achieve it and you have identified where the challenges may be.
+
+    </string>
+
+    <string name="ProgressCheck_paragraph_two">
+        Now let\'s sense check this and get you started.
+
+
+    </string>
+
+
+    <string name="Ask_your_self_pg_1">
+
+        1.) What…specifically…is the challenge here?
+
+    </string>
+
+
+    <string name="Ask_your_self_pg_2">
+
+        2.) What can I do or put in place, to male this challenge easier?
+
+    </string>
+
+    <string name="Ask_your_self_pg_3">
+
+        3.) What would be the first step in doing that?
+
+    </string>
+
+
+    <string name="Ask_your_self_pg_4">
+
+        4.) Is there anyone who can help me?, Is there anyone I know who would find this much easier? if there is - what would they do differently?
+
+    </string>
+
+
+    <string name="Ask_your_self_pg_5">
+
+        5.) Can I do that? (the action that someone else would take) - if not, what would need to change so I could do that
+
+    </string>
+
+    <string name="Ask_your_self_pg_6">
+
+        6.) Am I missing any information here?
+            If so what is it and where can I get it from?
+    </string>
+
+
+    <string name="Not_confidant">
+        Think about why you habe given this the rating you have and ask yourself these questions.
+    </string>
+
+
+    <string name="Not_confidant_question_one">
+        1.) What…specifically…is the challenge here? - Why can\'t this be rated as an 8,9 or 10?
+    </string>
+
+    <string name="Not_confidant_question_two">
+        2.) What can you do or put in place, to make this challenge easier?
+    </string>
+
+
+    <string name="Not_confidant_question_three">
+        3.) What would ne the first step in doing that?
+    </string>
+
+
+    <string name="Not_confidant_question_four">
+        4.) Is there anyone who can help you?
+    </string>
+
+
+    <string name="Not_confidant_question_five">
+        5.) What would the person you are thinking of do differently? Could you also do?\n\n
+
+            If not, what would you need to change so that you <b>could</b> do that?
+    </string>
+
+    <string name="Not_confidant_question_six">
+        6.) Is there anyone you can think of who would find this much easier?
+    </string>
+
+    <string name="Not_confidant_question_seven">
+        7.) Are you missing any information?\n
+            What else do you need to know?\n\n
+            If so, what is the information you need and where can you go to get it?
+    </string>
+
+    <string name="Last_Question">
+        (Make sure this is a precise timing point such as "Monday at 9:00am". Answers such as "as soon as possible" will not help you much.
+        The more specific you can get the date and time the more likely you are to actually do this)
+
+    </string>
+
+
+    <string name="Summary_1">
+
+        You have identified the challenges, how to overcome them and you plan to start your first action on:
+
+
+    </string>
+
+    <string name="Summary_2">
+
+        If you are still unsure why not reach out the wider leadership community on this app. We have some great moderators and friendly experts ready to help.
+
+
+    </string>
+
+
+    <string name="Building_a_rd">
+
+        One of the simplest examples of a road map is planning for something like a marathon run.
+	There are clear stages that lead up to this goal such as running 18miles, running a half marathon, running regularly, finding the time, Getting work and partner on board, doing the first run and maybe even buying shoes…
+
+
+
+    </string>
+
+
+    <string name="Rd_map_checkpoint">
+
+        Click "NEXT" again to continue to the next stage or close this text box and add more steps to your road map
+
+
+    </string>
+
+
+    <string name="Rd_map_plan">
+
+       A good reverse engineered road map starts with your destination or goal. It then works backwards to identify each step that needs to take place in order to achieve the goal. It can also identify milestones and measurabes if you need it to. Next you will find two examples of road maps.
+
+
+    </string>
+
+
 </resources>
